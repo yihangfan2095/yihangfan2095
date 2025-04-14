@@ -73,6 +73,5 @@ Python, Java, R, C, SQL, Tableau, Alteryx, Excel, HTML/CSS (Web Design)
 ## 📫 Let's Connect!
 
 - **Email:** yfan05@wm.edu  
-- **LinkedIn:** [Add your profile link here]  
-- **Portfolio (if any):** [Add link here]
+- **LinkedIn:** [https://www.linkedin.com/in/yihang-fan-0b4b08276/]  
 
